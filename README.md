@@ -2,7 +2,7 @@
 
 本项目是公众号“荒天下之大谬”Spring Cloud系列文章的源码，欢迎关注
 
-![](.\qrcode.jpg)
+![](./qrcode.jpg)
 
 
 
