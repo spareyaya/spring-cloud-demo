@@ -12,3 +12,5 @@
 
 - [Spring Cloud系列（二）：服务提供者](https://github.com/spareyaya/spring-cloud-demo/tree/master/chapter2)
 
+- [Spring Cloud系列（三）：服务消费者和负载均衡](<https://github.com/spareyaya/spring-cloud-demo/tree/master/chapter3>)
+
