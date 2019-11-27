@@ -14,3 +14,5 @@
 
 - [Spring Cloud系列（三）：服务消费者和负载均衡](<https://github.com/spareyaya/spring-cloud-demo/tree/master/chapter3>)
 
+- [Spring Cloud系列（四）：断路器Hystrix](https://github.com/spareyaya/spring-cloud-demo/tree/master/chapter4)
+
