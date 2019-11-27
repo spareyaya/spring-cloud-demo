@@ -16,3 +16,5 @@
 
 - [Spring Cloud系列（四）：断路器Hystrix](https://github.com/spareyaya/spring-cloud-demo/tree/master/chapter4)
 
+- [Spring Cloud系列（五）：服务网关Zuul](https://github.com/spareyaya/spring-cloud-demo/tree/master/chapter4)
+
