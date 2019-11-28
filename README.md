@@ -18,3 +18,5 @@
 
 - [Spring Cloud系列（五）：服务网关Zuul](https://github.com/spareyaya/spring-cloud-demo/tree/master/chapter4)
 
+- [Spring Cloud系列（六）：配置中心](https://github.com/spareyaya/spring-cloud-demo/tree/master/chapter5)
+
