@@ -20,3 +20,5 @@
 
 - [Spring Cloud系列（六）：配置中心](https://github.com/spareyaya/spring-cloud-demo/tree/master/chapter5)
 
+- [Spring Cloud系列（七）：消息总线](https://github.com/spareyaya/spring-cloud-demo/tree/master/chapter7)
+
